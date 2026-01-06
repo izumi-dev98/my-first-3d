@@ -1,5 +1,5 @@
 import Spline from '@splinetool/react-spline';
-import './App.css'; // we’ll add animation CSS here
+
 
 export default function App() {
   return (
